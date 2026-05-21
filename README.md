@@ -49,6 +49,31 @@
 
 ---
 
+## 스크린샷 | Troubleshooting
+
+<table align="center">
+  <tr>
+    <td align="center" width="49%">
+      <img width="1170" height="2532" alt="Image" src="https://github.com/user-attachments/assets/e5522ff7-cff8-4562-9d8b-f6da75bde683" />
+    </td>
+    <td align="center" width="49%">
+      <img width="1170" height="2532" alt="Image" src="https://github.com/user-attachments/assets/814c649d-665d-4698-83fb-549529e124f2" />
+    </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <td align="center" width="49%">
+      <img width="1170" height="2532" alt="Image" src="https://github.com/user-attachments/assets/5fd3ef7c-0132-431b-af92-08594072bfb5" />
+    </td>
+    <td align="center" width="49%">
+      <img width="1170" height="2532" alt="Image" src="https://github.com/user-attachments/assets/a4f0bb8e-5c68-40c8-ace0-c4c7d3aa6ade" />
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 프로젝트 회고 | Lessons
 
 ### 모바일 플랫폼의 이해

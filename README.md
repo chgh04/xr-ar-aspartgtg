@@ -49,7 +49,7 @@
 
 ---
 
-## 스크린샷 | Troubleshooting
+## 스크린샷 | Screenshots
 
 <table align="center">
   <tr>
